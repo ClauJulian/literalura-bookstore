@@ -1,12 +1,12 @@
 # Literalura BookStore
 
 
-🟥 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸 🟥
+🟥 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸 🟥
 
 Proyecto Java para ONE Alura Latam. 
 El aplicativo permite almacenar en una Base de Datos local gran variedad de libros en diferentes idiomas, consultar los libros registrados y sus autores. Buscar los Top 10 por idiomas y almacenarlos y también permite al usuario buscar los libros registrados por idioma. Todos los resultados se muestran por consola.
 
-🟥 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸 🟥
+🟥 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸 🟥
 
 ## ** Herramientas **
 
