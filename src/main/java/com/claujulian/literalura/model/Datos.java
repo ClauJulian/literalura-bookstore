@@ -1,4 +1,12 @@
-package com.claujulian.literalura;
+package com.claujulian.literalura.model;
 
-public record Datos() {
+import com.fasterxml.jackson.annotation.JsonAlias;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
+import java.util.List;
+
+@JsonIgnoreProperties(ignoreUnknown = true)
+public record Datos(
+        @JsonAlias("results") List<DatosLibro> resultados
+) {
 }
