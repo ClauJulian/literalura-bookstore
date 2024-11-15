@@ -1,4 +1,4 @@
-## Literalura BookStore
+# Literalura BookStore
 
 
 🟥 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸 🟥
@@ -8,15 +8,19 @@ El aplicativo permite almacenar en una Base de Datos local gran variedad de libr
 
 🟥 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸 🟥
 
-** Herramientas **
+## ** Herramientas **
 
 🔧 Lenguaje de Programación: Java JDK 17
+
 🔧 Entorno de Desarrollo: IntelliJ
+
 🔧 API de libros: Gutendex
+
 🔧 Manejo de Json: Jackson
+
 🔧 Base de Datos: PostgreSQL
 
-** Metodología **
+## ** Metodología **
 
 Como base en la POO, el proyecto se estructuró en paquetes para organizar modelos, repositorios, servicios y utils.
 Para acceder a los datos de la API Gutendex se utilizaron herramientas HttpClient, HttpRequest y HttpResponse.
@@ -26,7 +30,7 @@ Para trabajar con la Base de Datos se utilizó PostgreSQL mapeando las Entidades
 
 
 
-** Instalación del proyecto Literalura Bookstore **
+## ** Instalación del proyecto Literalura Bookstore **
 
 🔑 Crea una carpeta en tu entorno local
 🔑 En la terminal deslízate hacia la carpeta y clona el proyecto "Literalura Bookstore":
@@ -36,5 +40,5 @@ https://github.com/ClauJulian/literalura-bookstore.git
 
 🔑 Crea la Base de datos en tu Postgres con el nombre 'literalura'
 
-** Desarrolador **
+## ** Desarrolador **
 Claudia Edith Julian Full Stack PHP - React Licenciada en Administración de Empresas https://www.linkedin.com/in/claudiaedithjulian/
